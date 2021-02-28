@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """The setup and build script for the python-telegram-bot library."""
-impoert
+
 import codecs
 import os
 import subprocess
